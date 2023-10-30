@@ -17,7 +17,7 @@ Feel free to reach out to me through the following channels:
 - Email: pelumiadegbaju500@gmail.com
 - Phone: +234 (0) 916 351 5077
 <!-- LinkedIn: [Your LinkedIn Profile] -->
-- Twitter: twitter.com/adegbaju_pelumi
+- Twitter: www.twitter.com/adegbaju_pelumi
 - Website: www.pelumiadegbaju.w3spaces.com *still in development, would soon be done with it.*
 
 I'm always open to new opportunities, collaborations, or just a friendly chat, so don't hesitate to connect!
