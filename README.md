@@ -2,13 +2,13 @@
 
 ## About Me 📖
 
-Hello, I'm Adegbaju Pelumi, a passionate computer programmer, researcher and AI enthusiast from Nigeria. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, Cryptography and I also love playing games. 
+Hello, I'm Adegbaju Pelumi, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, Cryptography and I also love playing games. 
 
 I'm a Math hobbyist and I'm always eager to learn and explore new things. 
 
 ## My Projects 👩‍💻
 
-Here you'll find a variety of projects that reflect my interests and expertise. I enjoy working on C++, Python, ML, DL, AI, Qt and a variety of other software technologies, and you'll see a range of projects related to these topics in my repositories.
+Here you'll find a variety of projects that reflect my interests and expertise. I enjoy working on C++, Python, ML, DL, AI, Qt, ROS, Gazebo, Unreal Engine, Zbrush and a variety of other software technologies, and you'll see a range of projects related to these topics in my repositories.
 
 ## How to Reach Me ☎️
 
@@ -31,6 +31,7 @@ I'm familiar with a variety of technologies and tools, including but not limited
 - Python
 - JUCE
 - Qt
+- ROS
 - DirectX ...
 
 ## Fun Facts ⚱️
