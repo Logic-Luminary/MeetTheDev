@@ -2,7 +2,7 @@
 
 ## About Me 📖
 
-Hello, I'm Adegbaju Pelumi, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, Cryptography and I also love playing games. 
+Hello, I'm Pelumi, also known as Logic Luminary, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, and science in general, I also love playing games. 
 
 I'm a Math hobbyist and I'm always eager to learn and explore new things. 
 
@@ -18,7 +18,7 @@ Feel free to reach out to me through the following channels:
 - Phone: +234 (0) 916 351 5077
 <!-- LinkedIn: [My LinkedIn Profile] -->
 - Twitter: www.twitter.com/adegbaju_pelumi
-- Website: www.pelumiadegbaju.w3spaces.com *still in development, would soon be done with it.*
+<!-- Website: www.pelumiadegbaju.w3spaces.com *still in development, would soon be done with it.* -->
 
 I'm always open to new opportunities, collaborations, or just a friendly chat, so don't hesitate to connect!
 
@@ -36,7 +36,7 @@ I'm familiar with a variety of technologies and tools, including but not limited
 
 ## Fun Facts ⚱️
 
-- I'm a huge fan of Terence Tao *the famous mathematician*.
+- I love playing PC games
 - I love to play the piano.
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, open issues, or reach out for any questions or collaboration opportunities. I'm always eager to connect with like-minded individuals who share a passion for technology and innovation.
