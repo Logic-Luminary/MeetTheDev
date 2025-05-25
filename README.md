@@ -2,7 +2,7 @@
 
 ## About Me 📖
 
-Hello, I'm Pelumi, also known as Logic Luminary, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, and science in general, I also love playing games. 
+Hello, I'm Oluwapelumi Daniel, also known as The Logic Luminary, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, and science in general, I also love playing games. 
 
 I'm a Math hobbyist and I'm always eager to learn and explore new things. 
 
