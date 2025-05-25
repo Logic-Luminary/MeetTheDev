@@ -1,49 +1,53 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me 📖
+Hi, I'm **Oluwapelumi Daniel** — also known as **The Logic Luminary** — a passionate programmer, math hobbyist, and aspiring robotics & AI researcher.  
+I’m especially interested in the intersection of **robotics**, **computer vision**, and **healthcare technology**.
 
-Hello, I'm Oluwapelumi Daniel, also known as The Logic Luminary, a passionate computer programmer, researcher and a Robotics and AI enthusiast. I'm excited about technology, open source, and the endless possibilities they offer. I love researching/programming in Robotics, Computer Vision, Drones, Self driving cars, C++, Python, and topics relating to Mathematics, Computer science, AI, and science in general, I also love playing games. 
+I'm currently building a strong foundation in **Python**, **C++**, and **mathematics**, with a long-term goal of contributing to the development of intelligent robotic systems that assist in surgery and other life-saving medical tasks.
 
-I'm a Math hobbyist and I'm always eager to learn and explore new things. 
+I’m deeply curious about how **math, code, and vision systems** can work together to improve human life. I'm a **lifelong learner**, always seeking to deepen my knowledge in:
+- Computer Vision  
+- Autonomous Robotics  
+- Control Systems  
+- Scientific Computing  
+- Mathematics for AI and Robotics
 
-## My Projects 👩‍💻
+---
 
-Here you'll find a variety of projects that reflect my interests and expertise. I enjoy working on C++, Python, ML, DL, AI, Qt, ROS, Gazebo, Unreal Engine, Zbrush and a variety of other software technologies, and you'll see a range of projects related to these topics in my repositories.
+## My Projects 👨‍💻
+Here you'll find a growing collection of projects reflecting my journey into:
+- Real-time computer vision for robotics  
+- Mathematical modeling for robotic control  
+- Python and C++-based robotics development  
+- Healthcare-focused automation and visual systems  
+
+---
 
 ## How to Reach Me ☎️
+I'm open to collaborations, research discussions, or mentorship. You can reach out through:
 
-Feel free to reach out to me through the following channels:
+- **Email**: pelumiadegbaju500@gmail.com  
+- **Twitter**: [@adegbaju_pelumi](https://www.twitter.com/adegbaju_pelumi)
 
-- Email: pelumiadegbaju500@gmail.com
-- Phone: +234 (0) 916 351 5077
-<!-- LinkedIn: [My LinkedIn Profile] -->
-- Twitter: www.twitter.com/adegbaju_pelumi
-<!-- Website: www.pelumiadegbaju.w3spaces.com *still in development, would soon be done with it.* -->
-
-I'm always open to new opportunities, collaborations, or just a friendly chat, so don't hesitate to connect!
+---
 
 ## My Tech Stack 📚💻
+Currently working with:
+- Python  
+- C++  
+- Mathematics (Calculus, Linear Algebra, Differential Equations)
 
-I'm familiar with a variety of technologies and tools, including but not limited to:
-
-- ROS
-- C++
-- Python
-- JUCE
-- Qt
-- ROS
-- DirectX ...
+---
 
 ## Fun Facts ⚱️
+- I'm a **math hobbyist** who enjoys tackling challenging concepts in calculus and modeling.  
+- I’m a **pianist and lover of music**, often inspired by patterns in sound and math.  
+- I see code and robotics not just as tools—but as ways to improve lives, especially in healthcare.
 
-- I love playing PC games
-- I love to play the piano.
+---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, open issues, or reach out for any questions or collaboration opportunities. I'm always eager to connect with like-minded individuals who share a passion for technology and innovation.
+**Thanks for visiting my GitHub!**  
+Feel free to explore my repositories, reach out with ideas or questions, or just say hello.  
+I'm always looking to connect with passionate minds building the future through code, math, and robotics.
 
-Happy coding! 🚀
-
-<!---
-Tobiloba27/Tobiloba27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
