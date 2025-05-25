@@ -27,8 +27,8 @@ Here you'll find a growing collection of projects reflecting my journey into:
 ## How to Reach Me ☎️
 I'm open to collaborations, research discussions, or mentorship. You can reach out through:
 
-- **Email**: pelumiadegbaju500@gmail.com  
-- **Twitter**: [@adegbaju_pelumi](https://www.twitter.com/adegbaju_pelumi)
+- **Email**: dolamide605@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/oluwapelumi-daniel-b02383366/
 
 ---
 
